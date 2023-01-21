@@ -1,0 +1,7 @@
+/.gradle
+/build
+/driver
+/.idea
+/out
+/target
+/src/main/java/Main.java
